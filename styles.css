@@ -1,5 +1,6 @@
 body {
-    /* font-family */
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
     width: 80rem;
     margin: 0 auto;
     color: rgb(66, 65, 65);
